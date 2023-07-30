@@ -1,8 +1,12 @@
 # 使用方式
 
 
-請直接修改 js 資料夾內的 products.js 內的陣列元素，要增減多少自行決定...
+```
+podman build -t  local/demo-web
+podman run -p 8080:80 local/demo-web
+```
 
+JS
 
 ```
 const products = [
@@ -32,4 +36,4 @@ const products = [
 
 ## DEMO
 
-![](https://i.imgur.com/4k0fs1i.jpg)
+![](https://hackmd.io/_uploads/SJ4JuR7s2.png)
