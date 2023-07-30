@@ -36,4 +36,7 @@ const products = [
 
 ## DEMO
 
-![](https://hackmd.io/_uploads/SJ4JuR7s2.png)
+
+![](https://hackmd.io/_uploads/S1a6CRmj3.png)
+
+![](https://hackmd.io/_uploads/Skt1y1Nsh.png)
